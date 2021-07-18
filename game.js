@@ -1,3 +1,5 @@
+var pause = false
+
 class game{
 
 function start(){}
