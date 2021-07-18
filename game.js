@@ -1,2 +1,5 @@
 class game{
+
+function start(){}
+
 }
